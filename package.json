@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
   "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
+  "description": "Portfolio site for Swarnim Goyal",
   "repository": "https://github.com/HamishMW/portfolio.git",
-  "author": "Hamish Williams",
+  "author": "Swarnim Goyal",
   "sideEffects": false,
   "type": "module",
   "scripts": {
